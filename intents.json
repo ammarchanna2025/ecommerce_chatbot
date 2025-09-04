@@ -1,0 +1,154 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Hello",
+                "Good day",
+                "Is anyone there?",
+                "How are you?"
+            ],
+            "responses": [
+                "Hello! Welcome to ANS Pride 😊",
+                "Hey there! Welcome to ANS Pride – your go-to winterwear store!",
+                "Hi! How can I help you today at ANS Pride?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "Thanks for visiting ANS Pride! See you again soon ❄️",
+                "Take care! Hope to see you back at ANS Pride!",
+                "Goodbye from ANS Pride! Stay warm and stylish 😊"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thank's a lot!"
+            ],
+            "responses": [
+                "You're most welcome!",
+                "Glad I could help!",
+                "Any time! Enjoy shopping!"
+            ]
+        },
+        {
+            "tag": "items",
+            "patterns": [
+                "Which items do you have?",
+                "What kinds of items are there?",
+                "What do you sell?",
+                "What products do you sell?"
+            ],
+            "responses": [
+                "We offer a wide range of winterwear: jackets, shirts, pants, hoodies, and more for men, women, and kids.",
+                "You'll find stylish and cozy shirts, pants, jackets, and winter essentials for the whole family."
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": [
+                "Do you take credit cards?",
+                "Do you accept Mastercard?",
+                "Can I pay with Paypal?",
+                "Are you cash only?"
+            ],
+            "responses": [
+                "We accept Cash on delivery, and all other credit cards.",
+                "We also accept VISA, Mastercard, PayPal, and more secure payment options.",
+                "Yes, all major credit cards and online payment methods are accepted."
+            ]
+        },
+        {
+            "tag": "delivery",
+            "patterns": [
+                "How long does delivery take?",
+                "How long does shipping take?",
+                "When do I get my delivery?"
+            ],
+            "responses": [
+                "Delivery usually takes 3-5 business days depending on your location.",
+                "Shipping typically takes 3 to 5 days. You’ll get tracking info once your order is shipped."
+            ]
+        },
+        {
+            "tag": "product_info",
+            "patterns": [
+                "Tell me about your jackets",
+                "What types of winterwear do you offer?",
+                "Give me details about your clothing"
+            ],
+            "responses": [
+                "Our collection includes padded jackets, fleece-lined hoodies, thermal shirts, and windproof pants designed for men, women, and children.",
+                "We offer a variety of winterwear including stylish jackets, warm shirts, thermal pants, and more to keep you comfortable during the cold season."
+            ]
+        },
+        {
+            "tag": "best_sellers",
+            "patterns": [
+                "What are your best-selling items?",
+                "Tell me your popular products"
+            ],
+            "responses": [
+                "Our best-sellers include our insulated jackets, fleece hoodies, and classic winter pants for all age groups.",
+                "Customers love our thermal innerwear and men’s padded jackets — top-rated for warmth and comfort!"
+            ]
+        },
+        {
+            "tag": "discounts",
+            "patterns": [
+                "Do you offer any discounts?",
+                "Are there any ongoing promotions?"
+            ],
+            "responses": [
+                "Yes! We're currently offering discounts on selected winter jackets and bundled offers on shirts and pants. Check our homepage for the latest deals!",
+                "Absolutely! Visit our 'Offers' section for current sales, including seasonal discounts on men’s, women’s, and children’s wear."
+            ]
+        },
+        {
+            "tag": "customer_support",
+            "patterns": [
+                "How can I contact customer support?",
+                "I need assistance with my order"
+            ],
+            "responses": [
+                "You can reach our customer support through live chat, email, call or Whatsapp — we’re here to help you every step of the way!",
+                "For any help regarding orders, size issues, or returns, contact our support team directly through the contact section on our website."
+            ]
+        },
+        {
+            "tag": "reviews",
+            "patterns": [
+                "Can you share customer reviews?",
+                "What do customers say about your products?"
+            ],
+            "responses": [
+                "Customers love the warmth, quality, and style of our winterwear! You can read honest reviews on each product page.",
+                "We’ve received great feedback for our jackets and pants. Check out what our customers are saying in the reviews section!"
+            ]
+        },
+        {
+            "tag": "recommendation",
+            "patterns": [
+                "What should I buy for winter?",
+                "Suggest an outfit for cold weather",
+                "What jacket would you recommend?"
+            ],
+            "responses": [
+                "For men, our quilted winter jackets are a hit. For women, our fleece-lined hoodies and long coats are both stylish and warm. For kids, we recommend our windproof sets.",
+                "Looking for a cozy outfit? Try pairing a thermal shirt with our insulated pants and top it off with a padded jacket — perfect for winter outings!"
+            ]
+        }
+    ]
+}
