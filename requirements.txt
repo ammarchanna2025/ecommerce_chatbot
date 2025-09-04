@@ -1,5 +1,6 @@
 Flask
-torch
+torch==2.1.0+cpu
 nltk
 numpy
 flask-cors
+
