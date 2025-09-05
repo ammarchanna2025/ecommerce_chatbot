@@ -1,14 +1,13 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.db
-*.sqlite3
-*.log
-.env
-.git
-.gitignore
+# Ignore Python virtual environment
+.venv
 venv
-node_modules
-datasets
-models
+env
+
+# Ignore git repository
+.git
+
+# Ignore IDE and OS files
+.idea
+.vscode
+__pycache__
+*.pyc
